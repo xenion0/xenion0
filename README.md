@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedelg7" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedelg7?logo=twitter&style=for-the-badge" alt="ahmedelg7" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & Pentesting Mobile**
 
 - 💬 Ask me about **android**
 
