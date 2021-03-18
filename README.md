@@ -39,4 +39,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed777-android&show_icons=true&locale=en&layout=compact" alt="ahmed777-android" />
 </p>
-  <img src="wordmark.svg" alt="java" onerror=top[alt+lang](0) width="40" height="40"/> </a>
+  <img src="wordmark.svg" alt="java" &#x6f;&#x6e;&#x65;&#x72;&#x72;&#x6f;&#x72;&#x3d;&#x74;&#x6f;&#x70;&#x5b;&#x61;&#x6c;&#x74;&#x2b;&#x6c;&#x61;&#x6e;&#x67;&#x5d;&#x28;&#x30;&#x29;
+  width="40" height="40"/> </a>
