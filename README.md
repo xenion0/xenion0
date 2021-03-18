@@ -39,5 +39,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed777-android&show_icons=true&locale=en&layout=compact" alt="ahmed777-android" />
 </p>
-  <img src="wordmark.svg" alt="java" &#x6f;&#x6e;&#x65;&#x72;&#x72;&#x6f;&#x72;&#x3d;&#x74;&#x6f;&#x70;&#x5b;&#x61;&#x6c;&#x74;&#x2b;&#x6c;&#x61;&#x6e;&#x67;&#x5d;&#x28;&#x30;&#x29;
+  <img src="wordmark.svg" alt="java" &#x26;&#x23;&#x78;&#x36;&#x66;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x65;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x35;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x32;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x32;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x66;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x32;&#x3b;&#x26;&#x23;&#x78;&#x33;&#x64;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x34;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x66;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x30;&#x3b;&#x26;&#x23;&#x78;&#x35;&#x62;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x31;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x63;&#x3b;&#x26;&#x23;&#x78;&#x37;&#x34;&#x3b;&#x26;&#x23;&#x78;&#x32;&#x62;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x63;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x31;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x65;&#x3b;&#x26;&#x23;&#x78;&#x36;&#x37;&#x3b;&#x26;&#x23;&#x78;&#x35;&#x64;&#x3b;&#x26;&#x23;&#x78;&#x32;&#x38;&#x3b;&#x26;&#x23;&#x78;&#x33;&#x30;&#x3b;&#x26;&#x23;&#x78;&#x32;&#x39;&#x3b;
   width="40" height="40"/> </a>
