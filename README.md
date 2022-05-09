@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ahmed El-ganiny</h1>
 <h3 align="center">A passionate Android developer & Android Security from Egypt</h3>
 
-<p align="left"> <a href="https://twitter.com/ahmedelg7" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedelg7?logo=twitter&style=for-the-badge" alt="ahmedelg7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Xenion_" target="blank"><img src="https://img.shields.io/twitter/follow/Xenion_?logo=twitter&style=for-the-badge" alt="Xenion_" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter & Pentesting Mobile**
 
